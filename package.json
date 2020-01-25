@@ -1,7 +1,6 @@
 {
-  "name": "CryptoPrice",
+  "name": "cryptoprice",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -17,5 +16,14 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bstyx/BitcoinPriceChecker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bstyx/BitcoinPriceChecker/issues"
+  },
+  "homepage": "https://github.com/bstyx/BitcoinPriceChecker#readme",
+  "description": ""
 }
